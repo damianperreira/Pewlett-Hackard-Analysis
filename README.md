@@ -13,5 +13,6 @@
 Exported data to csv files. One for each table.
 
 
+ERD Representing Database Model
 ![ERD](https://github.com/damianperreira/Pewlett-Hackard-Analysis/blob/master/Analysis%20Projects%20Folder/Pewlett_Hackard_Folder/EmployeeDB.png)
 
