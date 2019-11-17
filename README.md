@@ -10,8 +10,8 @@
 * frequency_count_of_titles
 * ready_for_a_mentor
 
-Exported data to csv
+Exported data to csv files. One for each table.
 
-![EmployeeDB.png]
 
-![alt test](screenshots/EmployeeDB.png)
+![ERD](https://github.com/damianperreira/Pewlett-Hackard-Analysis/blob/master/Analysis%20Projects%20Folder/Pewlett_Hackard_Folder/EmployeeDB.png)
+
