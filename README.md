@@ -12,4 +12,4 @@
 
 Exported data to csv
 
-![](EmployeeDB.png)
+![EmployeeDB.png]
